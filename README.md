@@ -35,5 +35,6 @@ Let's Accelerate!
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/WesleyXu224)
 [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-%23FF0000?logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/6443c614000000001002b5cc)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%20-lightgrey)](https://scholar.google.cz/citations?user=iLP3qBEAAAAJ)
+[![Zhihu](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/meilleur-75)
 
 
