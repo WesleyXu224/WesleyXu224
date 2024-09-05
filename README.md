@@ -9,7 +9,7 @@ I am currently a senior undergraduate student at the School of Mathematics and C
 My research interests focus on robotics/autonomous driving perception, robot algorithm research, such as robot motion generation and reinforcement learning, LLMs, etc. I am committed to learning and advancing research in the field of Embodied AI, and I also have an ideal of AGI.
 
 #### Contact
-* Email: wesleyxu224 [at] gmail.com
+* Email: wesleyxu224@gmail.com
 
 #### Research Interests
 Embodied AI、Reinforcement Learning、LLMs
